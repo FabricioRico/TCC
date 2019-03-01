@@ -1,0 +1,295 @@
+@charset "ISO-8859-1";
+
+
+body{
+	
+background-color: #FAF0E6;	
+
+	
+}
+
+
+#balao1{
+	
+	position: relative;
+	left: 120px;
+	top: 10px;
+	-webkit-transform: rotate(3.9deg);
+  	-ms-transform: rotate(3.9deg);
+  	transform: rotate(3.9deg);
+	
+}
+
+#balao2{
+	
+	position: relative;
+	left: 310px;
+	top: -190px;
+	-webkit-transform: rotate(3.9deg);
+  	-ms-transform: rotate(3.9deg);
+  	transform: rotate(3.9deg);
+	
+}
+
+#balao3{
+	
+	position: relative;
+	left: 500px;
+	top: -392px;
+	-webkit-transform: rotate(3.9deg);
+  	-ms-transform: rotate(3.9deg);
+  	transform: rotate(3.9deg);
+	
+}
+
+#balao4{
+	
+	position: relative;
+	left: 700px;
+	top: -595px;
+	-webkit-transform: rotate(3.9deg);
+  	-ms-transform: rotate(3.9deg);
+  	transform: rotate(3.9deg);
+	
+}
+
+.hora1{
+	position: relative;
+	left: 139px;
+	top: 15px;
+	font-weight: bold;
+	
+}
+
+.hora2{
+	position: relative;
+	left: 330px;
+	top: -184px;
+	font-weight: bold;
+}
+
+.hora3{
+	position: relative;
+	left: 518px;
+	top: -386px;
+	font-weight: bold;
+}
+
+.hora4{
+	position: relative;
+	left: 715px;
+	top: -588px;
+	font-weight: bold;
+}
+
+
+.programacao{
+	
+	position: relative;
+	left:1030px;
+	top: -579px;
+	
+}
+
+.quadro{
+	
+	position: relative;
+	left: 1000px;
+	top: -790px;
+	
+}
+
+.horario{
+	
+	position: relative;
+	left: 1060px;
+	top: -790px;
+	font-size: 1.19rem;
+}
+
+.relogio{
+	
+	width: 23px;
+    height:23px;
+    position:relative;
+    left: 1035px;
+    top: -765px;
+}
+
+
+#divBusca{
+  background-color:#E0EEEE;
+  border:solid 2px #000000;
+  border-radius:10px;
+  width:350px;
+  height:36px;
+  position: relative;
+  left: 70px;
+  top: -860px;
+}
+ 
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px; 
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:191px;
+}
+ 
+#btnBusca{
+  border:none;
+  float:left;
+  height:32px;
+  border-radius:0 7px 7px 0;
+  width:155px;
+  font-weight:bold;
+  background:#ff8000;
+}
+ 
+#divBusca img{
+  float:left;
+}
+
+
+.pesquisa{
+	
+	position: relative;
+	left: 76px;
+	top: -865px;
+	font-size: 1.02em;
+	
+}
+
+
+.nomechat1{
+	
+	position: relative;
+	left: 150px;
+	top: -86px;
+	font-weight: bold;
+	
+}
+
+.nomechat2{
+	
+	position: relative;
+	left: 340px;
+	top: -288px;	
+	font-weight: bold;
+	
+}
+
+.nomechat3{
+	
+	position: relative;
+	left: 530px;
+	top: -488px;
+	font-weight: bold;
+	
+}
+
+.nomechat4{
+	
+	position: relative;
+	left: 730px;
+	top: -690px;
+	font-weight: bold;
+	
+}
+
+
+
+
+.quadrochat1{
+	
+	position: relative;
+	left: 20px;
+	top: -750px;
+	
+}
+
+#teste{
+
+position: relative;
+top: -50px;
+left: 230px;
+resize: none;
+width: 100%;
+padding: 1px 11px;
+overflow: scroll;
+width: 923px;
+height:353px;
+}
+
+#divEnviar{
+  background-color:#E0EEEE;
+  border:solid 2px #000000;
+  border-radius:20px;
+  width:550px;
+  height:46px;
+  position: relative;
+  left: 229px;
+  top: -30px;
+}
+ 
+#txtEnviar{
+  float:left;
+  background-color:transparent;
+  padding-left:15px;
+  padding-right:-110%;
+  font-size:18px;
+  border:none;
+  height:42px;
+  width:191px;
+
+}
+ 
+#btnEnviar{
+  position: relative;
+  left: 181px;
+  border:none;
+  float:left;
+  height:42px;
+  border-radius:0 19px 19px 0;
+  width:175px;
+  font-weight:bold;
+  background:#ff8000;
+}
+ 
+#divBusca img{
+  float:left;
+}
+
+.titulochat{
+	
+	position: relative;
+	top: -73px;
+	left: 310px;
+	
+	
+}
+
+#PR{
+	
+	position: relative;
+	left: 30px;
+	top: 10px;
+}
+
+#pergunta{
+	
+	position: relative;
+	left: 220px;
+	top: -30px;
+}
+
+#resposta{
+	
+	position: relative;
+	left: 220px;
+	top: -20px;
+}
+
+
